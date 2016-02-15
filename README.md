@@ -1,2 +1,2 @@
 # smile4life.github.io
-Trying out this website business
+I have no idea what I'm doing, except trying to learn something
