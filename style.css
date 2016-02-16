@@ -1,8 +1,6 @@
 body {
     font-family: "Trebuchet MS", Helvetica, sans-serif;
-    font-size: 16px;
     background-color: #cceeff; 
-    color: #006666;
     padding-top: 70px;
     padding-bottom: 30px;
     text-align: center;
@@ -10,9 +8,6 @@ body {
 
 h1 {
     font-family: Architect, serif;
-    border-bottom: 3px solid #cc9900;
-    color: #0066ff;
-    font-size: 30px;
 }
 
 .theme-dropdown .dropdown-menu {
