@@ -1,7 +1,7 @@
 body {
     font-family: "Trebuchet MS", Helvetica, sans-serif;
-    background-color: #efffef;
-    background-image: "css/phots/spider_web";
+    background-color: #ffffe6;
+    background-image: url("css/phots/spider_web");
     padding-top: 30px;
     padding-bottom: 20px;
     text-align: center;
