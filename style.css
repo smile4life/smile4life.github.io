@@ -1,8 +1,6 @@
 body {
     font-family: "Trebuchet MS", Helvetica, sans-serif;
     background: #f8fffa; <!-- url("css/photos/spider_web.jpg") no-repeat fixed top; -->
-    padding-top: 10px;
-    padding-bottom: 5px;
 }
 
 h1 {
